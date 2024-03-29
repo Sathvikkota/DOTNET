@@ -1,0 +1,11 @@
+D:\3-2\.NET\lab11\lab11\bin\Debug\lab11.exe.config
+D:\3-2\.NET\lab11\lab11\bin\Debug\lab11.exe
+D:\3-2\.NET\lab11\lab11\bin\Debug\lab11.pdb
+D:\3-2\.NET\lab11\lab11\obj\Debug\lab11.csproj.AssemblyReference.cache
+D:\3-2\.NET\lab11\lab11\obj\Debug\lab11.Form1.resources
+D:\3-2\.NET\lab11\lab11\obj\Debug\lab11.Properties.Resources.resources
+D:\3-2\.NET\lab11\lab11\obj\Debug\lab11.csproj.GenerateResource.cache
+D:\3-2\.NET\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+D:\3-2\.NET\lab11\lab11\obj\Debug\lab11.exe
+D:\3-2\.NET\lab11\lab11\obj\Debug\lab11.pdb
+D:\3-2\.NET\lab11\lab11\obj\Debug\lab11.Form2.resources

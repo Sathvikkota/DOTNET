@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\bin\Debug\net8.0\BasicCodes.exe
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\bin\Debug\net8.0\BasicCodes.deps.json
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\bin\Debug\net8.0\BasicCodes.runtimeconfig.json
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\bin\Debug\net8.0\BasicCodes.dll
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\bin\Debug\net8.0\BasicCodes.pdb
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\obj\Debug\net8.0\BasicCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\obj\Debug\net8.0\BasicCodes.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\obj\Debug\net8.0\BasicCodes.AssemblyInfo.cs
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\obj\Debug\net8.0\BasicCodes.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\obj\Debug\net8.0\BasicCodes.dll
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\obj\Debug\net8.0\refint\BasicCodes.dll
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\obj\Debug\net8.0\BasicCodes.pdb
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\obj\Debug\net8.0\BasicCodes.genruntimeconfig.cache
+C:\Users\Hp\source\repos\BasicCodes\BasicCodes\obj\Debug\net8.0\ref\BasicCodes.dll

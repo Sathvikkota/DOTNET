@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\RegisLoginForm\RegisLoginForm\bin\Debug\RegisLoginForm.exe.config
+C:\Users\Hp\source\repos\RegisLoginForm\RegisLoginForm\bin\Debug\RegisLoginForm.exe
+C:\Users\Hp\source\repos\RegisLoginForm\RegisLoginForm\bin\Debug\RegisLoginForm.pdb
+C:\Users\Hp\source\repos\RegisLoginForm\RegisLoginForm\obj\Debug\RegisLoginForm.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\RegisLoginForm\RegisLoginForm\obj\Debug\RegisLoginForm.Form1.resources
+C:\Users\Hp\source\repos\RegisLoginForm\RegisLoginForm\obj\Debug\RegisLoginForm.Properties.Resources.resources
+C:\Users\Hp\source\repos\RegisLoginForm\RegisLoginForm\obj\Debug\RegisLoginForm.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\RegisLoginForm\RegisLoginForm\obj\Debug\RegisLoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\RegisLoginForm\RegisLoginForm\obj\Debug\RegisLoginForm.exe
+C:\Users\Hp\source\repos\RegisLoginForm\RegisLoginForm\obj\Debug\RegisLoginForm.pdb
